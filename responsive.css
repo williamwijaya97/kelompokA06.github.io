@@ -27,12 +27,14 @@
     .btn {
       width: 100%;
     }
-    
+      .wrapper {
+          width: 50%;
+    }
+      
     .top-wrapper {
       text-align: left;
     }
-    
-    
+   
     .header-right {
       display: none;
     }
@@ -50,5 +52,11 @@
     .top-wrapper p {
       font-size: 14px;
       line-height: 20px;
+    }   
+     .wrapper .icon span {
+            margin: -17px;
+    }
+        .wrapper .icon {
+            width: 23px;
     }
   }
